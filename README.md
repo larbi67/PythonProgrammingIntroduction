@@ -8,7 +8,7 @@ Welcome to the "Introduction to Programming with Python in Schools" repository! 
 - [Example 3: Python Projects]()
 
 ## Presentations
-- [On the Way to Python: A Fun STEM Course for Future Coders](PythonJourney_FUN_STEM_Course_Eng)
+- [On the Way to Python: A Fun STEM Course for Future Coders](PythonJourney_FUN_STEM_Course_Eng.pdf)
 - [En Route vers Python : Un Cours STEM Amusant pour les Futurs Codeurs](PythonJourney_FUN_STEM_Course_Fr.pdf)
 
 ## License
